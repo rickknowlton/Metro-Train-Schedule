@@ -1,0 +1,41 @@
+/*   Body/Default Attributes   */
+
+body {
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+
+/*   Class Attributes   */
+
+.card {
+    margin-bottom: 25px;
+}
+
+.jumbotron {
+    background: linear-gradient(217deg, rgba(255, 0, 0, .8), rgba(255, 0, 0, 0) 70.71%),
+        linear-gradient(127deg, rgba(0, 110, 255, 0.8), rgba(58, 24, 253, 0) 70.71%),
+        linear-gradient(336deg, rgba(0, 0, 255, .8), rgba(5, 5, 170, 0) 70.71%);
+    height: 450px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.alternate {
+    font-family: 'Kosugi Maru', sans-serif;
+}
+/*   ID Attributes   */
+
+#logo {
+    max-width: 350px;
+    height: auto;
+}
+
+#trainList,
+#trainForm,
+#currentTime {
+    font-family: 'Kosugi Maru', sans-serif;
+}
+
+#addTrain {
+    font-family: 'PT Sans Caption', sans-serif;
+}
