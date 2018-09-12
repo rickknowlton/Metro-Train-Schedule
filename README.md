@@ -1,5 +1,6 @@
 # Metro
-## 🚄 Philadelphia metro train scheduling app supported by Google Firebase
+🚄 Philadelphia metro train scheduling app supported by Google Firebase
+
 
 ## Table of contents
   * [Overview](#overview)
