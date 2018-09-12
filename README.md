@@ -1,4 +1,5 @@
 # Metro
+<<<<<<< HEAD
 ## 🚄 Philadelphia metro train scheduling app supported by Google Firebase
 
 ## Table of contents
@@ -42,3 +43,5 @@
 ## <a name="license"></a> License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+=======
+>>>>>>> d02814ae322fbffaf015238d1bf5c4375d194f2e
