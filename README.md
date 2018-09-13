@@ -4,7 +4,7 @@
 
 ## Table of contents
   * [Overview](#overview)
-  * [Live](#live)
+  * [Live Demo](#live)
   * [Technologies](#technologies)
   * [Future Feature Enhancements](#feature-enhancements)
   * [Installation](#installation)
@@ -15,7 +15,7 @@
 <p>Metro is a dynamic web application (supported by Google Firebase) that hosts a "live" metro train schedule for the Greater Philadelphia Area. The application serves as a adminstrative dashboard that allows the user to add additional train lines to the schedule and also calculates arrivals and wait times (via the Moment.js Library).</p>
 
 
-## <a name="live"></a> Live
+## <a name="live"></a> Live Demo
 <p>Metro is available live through Github Pages:</p>
 <p>https://rickknowlton.github.io/metro/</p>
 
