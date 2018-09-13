@@ -5,9 +5,9 @@
 ## Table of contents
   * [Overview](#overview)
   * [Live Demo](#live)
+  * [Installation](#installation)
   * [Technologies](#technologies)
   * [Future Feature Enhancements](#feature-enhancements)
-  * [Installation](#installation)
   * [License](#license)
 
 
@@ -18,6 +18,11 @@
 ## <a name="live"></a> Live Demo
 <p>Metro is available live through Github Pages:</p>
 <p>https://rickknowlton.github.io/metro/</p>
+
+
+## <a name="installation"></a> Installation
+1. `git clone` the repository.
+2. Open `index.html` in your browser.
 
 
 ## <a name="technologies"></a> Technologies
@@ -33,11 +38,6 @@
 ## <a name="feature-enhancements"></a> Future Feature Enhancements
 <li>User Login/Authentication</li>
 <li>Additional Station/Platform Support</li>
-
-
-## <a name="installation"></a> Installation
-1. `git clone` the repository.
-2. Open `index.html` in your browser.
 
 
 ## <a name="license"></a> License
