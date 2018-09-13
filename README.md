@@ -28,7 +28,7 @@
 ## <a name="technologies"></a> Technologies
 <li>HTML5</li>
 <li>CSS</li>
-<li>Bootstrap 4.0.0-beta (http://getbootstrap.com/)</li>
+<li>Bootstrap 4.0 (http://getbootstrap.com/)</li>
 <li>Javascript</li>
 <li>JQuery (https://jquery.com/)</li>
 <li>Firebase API for database hosting (https://firebase.google.com/)</li>
